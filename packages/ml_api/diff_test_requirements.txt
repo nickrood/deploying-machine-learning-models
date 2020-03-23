@@ -1,4 +1,4 @@
---extra-index-url=${PIP_EXTRA_INDEX_URL}
+https://uza9FRPw5ZM2CeGR1wGh@pypi.fury.io/nickrood/=${PIP_EXTRA_INDEX_URL}
 
 # api
 flask==1.0.2
